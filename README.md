@@ -19,6 +19,11 @@
 
 ---
 
+<p align="center">
+  <img src="dashboard.png" width="700" alt=" Dashboard Preview">
+</p>
+
+
 ## 📖 Project Overview & Problem Statement
 
 **EduVision** is an interactive, multi-page dashboard designed to provide data-driven insights into enrollment patterns, learner performance, and marketing effectiveness for an educational platform. It was developed as the final deliverable during the Excelerate internship program.
