@@ -112,5 +112,5 @@ wireframe_dashboard.pdf – Visual layout plan.
 
 screenshots/ – Sample images of final dashboard.
 
-README.md – This file.
+README.md – Project documentation.
 
