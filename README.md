@@ -21,7 +21,7 @@
 
 ## 📖 Project Overview & Problem Statement
 
-**EduVision** is an interactive, multi-page dashboard designed to provide data-driven insights into enrollment patterns, learner performance, and marketing effectiveness for an educational platform. It was developed as the final capstone project during the Excelerate internship program.
+**EduVision** is an interactive, multi-page dashboard designed to provide data-driven insights into enrollment patterns, learner performance, and marketing effectiveness for an educational platform. It was developed as the final deliverable during the Excelerate internship program.
 
 ### 💡 Problem Statement
 Education organizations often struggle to:
@@ -68,7 +68,7 @@ Each page is structured around a core theme with argument-driven visualizations.
 ---
 
 ## My Role & Contributions
-As a key contributor and team supervisor in the project:
+As a key contributor and **Project Supervisor** in the team:
 
 - 🧩 **Defined KPIs** and planned overall layout using stakeholder-centric goals.
 - 🗺️ Created wireframe that helped structure insights into clear, logical flows.
@@ -104,13 +104,13 @@ As a key contributor and team supervisor in the project:
 
 ## 📁 Project Files
 
-Master Table.sql – Final merged and cleaned SQL table.
+project_sql_queries.sql – Final merged and cleaned SQL table.
 
-Marketing Data.xlsx – Cleaned campaign performance data.
+final_presentation_slide : Final group presentation slide.
 
-Dashboard Wireframe.pdf – Visual layout plan.
+wireframe_dashboard.pdf – Visual layout plan.
 
-Screenshots/ – Sample images of final dashboard.
+screenshots/ – Sample images of final dashboard.
 
 README.md – This file.
 
