@@ -21,6 +21,7 @@
 
 <p align="center">
   <img src="dashboard.png" width="700" alt=" Dashboard Preview">
+   <img src="Cohort dashboard.png" width="700" alt=" Dashboard Preview">
 </p>
 
 
