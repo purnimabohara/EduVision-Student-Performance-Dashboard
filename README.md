@@ -20,9 +20,9 @@
 ---
 
 <p align="center">
-  <img src="Enrollment_dashboard.png" width="45%" alt="OCR Screenshot">
+  <img src="Enrollment_trends_dashboard.png" width="45%" alt="OCR Screenshot">
   &nbsp;
-  <img src="Cohort dashboard.png" width="45%" alt="Generated PDF Screenshot">
+  <img src="dashboard.png" width="45%" alt="Generated PDF Screenshot">
 </p>
 <p align="center">
   <img src="Learner_Insights_dashboard.png" width="45%" alt="OCR Screenshot">
